@@ -1,0 +1,23 @@
+.page h1{
+    height: 20vh;
+    width: 100vw;
+    font-style: oblique;
+}
+
+.page h3{
+    font-size: xx-large;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    line-height: 200px;
+}
+ button{
+    height: 60px;
+    width: 100px;
+    font-weight: 600;
+    font-size: x-large;
+}
